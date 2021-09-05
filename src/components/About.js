@@ -42,7 +42,7 @@ export default function About() {
                     </h2>
                     <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div className="accordion-body" style = {myStyle}>
-                        <strong>To know more about the developer <a href = "https://aditya007-cyber.github.io/" target="_blank">Click here</a></strong>
+                        <strong>To know more about the developer <a href = "https://aditya007-cyber.github.io/" target="_self">Click here</a></strong>
                     </div>
                     </div>
                 </div>
